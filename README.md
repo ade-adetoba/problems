@@ -1,5 +1,5 @@
-(venv) adetoa3@MAC-AA-D2X19XK5CC test3 % export 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             
-(venv) adetoa3@MAC-AA-D2X19XK5CC test3 % python3 scripts/check.py                       
+venv) adetoa3@MAC-AA-D2X19XK5CC test3 % export GITHUB_TOKEN=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
+(venv) adetoa3@MAC-AA-D2X19XK5CC test3 % python3 scripts/check.py                                    
 ==================================================
   AutoDoc — Health Check
 ==================================================
@@ -12,7 +12,3 @@
 
    Make sure your token has the 'models:read' scope.
    github.com → Settings → Developer settings → Personal access tokens
-
-
-
-   
